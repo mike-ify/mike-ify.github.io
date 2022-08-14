@@ -18,9 +18,7 @@
 </head>
 <body class="fullscreen">
   <div class="container">
-    <h1 class="title">Mappa sorgenti</h1>
-    <div id="map" class="map"></div>
-    
+    <h1 class="title">Hello World!</h1>
   </div>
   <script src="js/ol.js"></script>
   <script src="js/main.js"></script>

@@ -21,8 +21,3 @@ html,
 .title {
   font-size: 3rem;
 }
-
-.map {
-height: 400px;
-width: 100%;
-}
