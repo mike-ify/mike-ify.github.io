@@ -1,1 +1,1 @@
-[Link: mike-ify.github.io]
+(mike-ify.github.io)
